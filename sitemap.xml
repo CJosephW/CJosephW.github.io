@@ -3,73 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.cameronwise.me/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/php-blog/</loc>
+    <loc>/post/php-blog/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/draw-together/</loc>
+    <loc>/post/draw-together/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/todo-list/</loc>
+    <loc>/post/todo-list/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/discord-bot/</loc>
+    <loc>/post/discord-bot/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/murphys-mow-snow/</loc>
+    <loc>/post/murphys-mow-snow/</loc>
     <lastmod>2020-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/ffemsapp/</loc>
+    <loc>/post/ffemsapp/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/amazon-scraper/</loc>
+    <loc>/post/amazon-scraper/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/post/autopickup/</loc>
+    <loc>/post/autopickup/</loc>
     <lastmod>2019-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/page/about/</loc>
+    <loc>/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/page/contact/</loc>
+    <loc>/page/contact/</loc>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/page/</loc>
+    <loc>/page/</loc>
   </url>
   
   <url>
-    <loc>https://www.cameronwise.me/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
