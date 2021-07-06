@@ -5,11 +5,7 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Cameron Wise</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Cameron Wise)</managingEditor>
-    <webMaster>youremail@domain.com (Cameron Wise)</webMaster>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <managingEditor>wisecameron1@gmail.com (Cameron Wise)</managingEditor>
+    <webMaster>wisecameron1@gmail.com (Cameron Wise)</webMaster><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

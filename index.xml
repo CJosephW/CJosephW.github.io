@@ -5,18 +5,33 @@
     <link>/</link>
     <description>Recent content on Cameron Wise</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Cameron Wise)</managingEditor>
-    <webMaster>youremail@domain.com (Cameron Wise)</webMaster>
-    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <managingEditor>wisecameron1@gmail.com (Cameron Wise)</managingEditor>
+    <webMaster>wisecameron1@gmail.com (Cameron Wise)</webMaster>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beaut</title>
+      <link>/post/beaut/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
+      <guid>/post/beaut/</guid>
+      <description>&lt;p&gt;React Web App for Beautifying JSON and JWTs&lt;/p&gt;</description>
+    </item>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Spotify LED Display</title>
+      <link>/post/spotify-led-display/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
+      <guid>/post/spotify-led-display/</guid>
+      <description>&lt;p&gt;A Python Script for displaying your currently playing song onto your LED matri/x/(cies)
+This is still very much a work in progress, current works in progress are refresh tokens and contrasting text for the track&amp;rsquo;s title&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Simple PHP Blog with login</title>
       <link>/post/php-blog/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/php-blog/</guid>
       <description>&lt;p&gt;This is a simple blog using PHP, MYSQL, HTML, CSS JS, and Bootstrap 4. I made this project to refresh my knowledge on my PHP and get some experience with hashing passwords.&lt;/p&gt;</description>
     </item>
@@ -25,7 +40,7 @@
       <title>DrawTogether!</title>
       <link>/post/draw-together/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/draw-together/</guid>
       <description>&lt;p&gt;This is a Javascript Canvas App using Websockets, Express, and HTML &amp;amp; CSS to create a real time drawing app. Using unique IDs given on connection, users can join their friend&amp;rsquo;s Canvas and draw together! This app also has a simple chat function to communicate with friends.&lt;/p&gt;</description>
     </item>
@@ -34,16 +49,16 @@
       <title>React Todo List</title>
       <link>/post/todo-list/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/todo-list/</guid>
       <description>&lt;p&gt;React todo list to test my knowlege on React after working with React Native for a bit. This Recat app uses webkit, HTML, CSS, JS, and Boostrap.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Discod Bot</title>
+      <title>Discord Bot</title>
       <link>/post/discord-bot/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/discord-bot/</guid>
       <description>&lt;p&gt;Discord Bot using python&amp;rsquo;s discord.py package&lt;/p&gt;</description>
     </item>
@@ -52,7 +67,7 @@
       <title>Murphy&#39;s Mow &amp; Snow Website</title>
       <link>/post/murphys-mow-snow/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/murphys-mow-snow/</guid>
       <description>&lt;p&gt;Business site for Murphy&amp;rsquo;s Mow &amp;amp; Snow&lt;/p&gt;</description>
     </item>
@@ -61,7 +76,7 @@
       <title>Fire Fighting and EMS App</title>
       <link>/post/ffemsapp/</link>
       <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/ffemsapp/</guid>
       <description>&lt;p&gt;React Native App for Fire Fighting and EMS class at the JACC&lt;/p&gt;</description>
     </item>
@@ -70,7 +85,7 @@
       <title>Amazon Web Scraper</title>
       <link>/post/amazon-scraper/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/amazon-scraper/</guid>
       <description>&lt;p&gt;Another web scraping app using Python with Selenium to get data from Amazon&lt;/p&gt;</description>
     </item>
@@ -79,7 +94,7 @@
       <title>HotSchedules AutoPickup Script</title>
       <link>/post/autopickup/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/post/autopickup/</guid>
       <description>&lt;p&gt;A Python script using Selenium to check avaliable shifts on Hotschedules.com&lt;/p&gt;</description>
     </item>
@@ -88,9 +103,9 @@
       <title>About me</title>
       <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/page/about/</guid>
-      <description>Hi, my name is Cameron Wise. Here are some of my interests and hobbies
+      <description>Hi, my name is Cameron Wise. Here are some of my interests and hobbies:
  Software Development Web Design Data Analysis Snowboarding Bass Guitar Pixel Art  my history I&amp;rsquo;ve been programming since the age of thirteen. Since then I have taken several AP programming classes and have participated in the Jackson Area Career Center&amp;rsquo;s CIT: Programming. This class gave me the work experience and time to explore different avenues such as Web Development, Software Development, and Data Analysis.</description>
     </item>
     
@@ -98,7 +113,7 @@
       <title>Contact Me!</title>
       <link>/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Cameron Wise)</author>
+      <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/page/contact/</guid>
       <description>Phone: (517) 748-6160
 Email: wisecameron1@gmail.com

@@ -7,8 +7,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Fire Fighting and EMS App - Cameron Wise</title>
-  <meta name="description" content="React Native App for Fire Fighting and EMS class at the JACC">
+  <title>Spotify LED Display - Cameron Wise</title>
+  <meta name="description" content="A Python Script for displaying your currently playing song onto your LED matri/x/(cies)
+This is still very much a work in progress, current works in progress are refresh tokens and contrasting text for the track&rsquo;s title">
   <meta name="author" content="Cameron Wise"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -44,8 +45,8 @@
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "\/post\/ffemsapp\/",
-          "name": "Fire fighting and ems app"
+          "@id": "\/post\/spotify-led-display\/",
+          "name": "Spotify led display"
         }
     }]
 }
@@ -56,15 +57,15 @@
   "author": {
     "name" : "Cameron Wise"
   },
-  "headline": "Fire Fighting and EMS App",
-  "description" : "React Native App for Fire Fighting and EMS class at the JACC\n",
+  "headline": "Spotify LED Display",
+  "description" : "A Python Script for displaying your currently playing song onto your LED matri\/x\/(cies) This is still very much a work in progress, current works in progress are refresh tokens and contrasting text for the track\u0026rsquo;s title\n",
   "inLanguage" : "en",
-  "wordCount":  142 ,
-  "datePublished" : "2020-03-15T00:00:00",
-  "dateModified" : "2020-03-15T00:00:00",
+  "wordCount":  272 ,
+  "datePublished" : "2021-05-31T00:00:00",
+  "dateModified" : "2021-05-31T00:00:00",
   "image" : "\/img\/avatar-icon.png",
   "keywords" : [ "" ],
-  "mainEntityOfPage" : "\/post\/ffemsapp\/",
+  "mainEntityOfPage" : "\/post\/spotify-led-display\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "\/",
@@ -78,15 +79,17 @@
 }
 </script>
 
-<meta property="og:title" content="Fire Fighting and EMS App" />
-<meta property="og:description" content="React Native App for Fire Fighting and EMS class at the JACC">
+<meta property="og:title" content="Spotify LED Display" />
+<meta property="og:description" content="A Python Script for displaying your currently playing song onto your LED matri/x/(cies)
+This is still very much a work in progress, current works in progress are refresh tokens and contrasting text for the track&rsquo;s title">
 <meta property="og:image" content="/img/avatar-icon.png" />
-<meta property="og:url" content="/post/ffemsapp/" />
+<meta property="og:url" content="/post/spotify-led-display/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Cameron Wise" />
 
-  <meta name="twitter:title" content="Fire Fighting and EMS App" />
-  <meta name="twitter:description" content="React Native App for Fire Fighting and EMS class at the JACC">
+  <meta name="twitter:title" content="Spotify LED Display" />
+  <meta name="twitter:description" content="A Python Script for displaying your currently playing song onto your LED matri/x/(cies)
+This is still very much a work in progress, current works in progress are refresh tokens and contrasting text …">
   <meta name="twitter:image" content="/img/avatar-icon.png" />
   <meta name="twitter:card" content="summary" />
   <link href='/img/favicon.ico' rel='icon' type='image/x-icon'/>
@@ -226,7 +229,7 @@
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="post-heading">
               
-                <h1>Fire Fighting and EMS App</h1>
+                <h1>Spotify LED Display</h1>
               
               
               
@@ -234,11 +237,11 @@
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on March 15, 2020
+  <i class="fas fa-calendar"></i>&nbsp;Posted on May 31, 2021
   
   
   
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;142&nbsp;words
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;272&nbsp;words
   
   
     
@@ -263,14 +266,37 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p>React Native App for Fire Fighting and EMS class at the JACC</p>
-<h1 id="background-for-app">Background for App:</h1>
-<h4 id="in-progress"><em>in progress</em></h4>
-<p>Fire fighters in training have a set amount of &ldquo;skills&rdquo; they have to learn these are proctored tasks that they must complete to finish their training. The Firefighting Career Center teacher, Mr. Morrin talked to me about the insane amount of paperwork that he has to sort through and go through every year. He asked me to find a way to fill out these PDFs for him and store them in a database.</p>
-<p>This React Native App gets the required fields from the .docx files and puts them into React Native fields. The backend uses Express, MongoDB, and Mongoose. I will attatch the backend as well as the python script used to POST the fields to the database below.</p>
-<p><a href="https://github.com/CJosephW/FireFightingEMSApp">React Native App</a></p>
-<p><a href="https://github.com/CJosephW/CareerCenterProj-Backend">Backend</a></p>
-<p><a href="https://github.com/CJosephW/DocxScript">Python Script</a></p>
+        <p>A Python Script for displaying your currently playing song onto your LED matri/x/(cies)
+This is still very much a work in progress, current works in progress are refresh tokens and contrasting text for the track&rsquo;s title</p>
+<p><a href="https://github.com/CJosephW/SpotifyLEDDisplay">Github Repo</a></p>
+<h1 id="project-requirements">Project Requirements</h1>
+<ol>
+<li>2x <a href="https://www.amazon.com/Pixels-Indoor-SMD2121-320x160mm-320160mm/dp/B07SDMWX9R/ref=sr_1_13?dchild=1&amp;keywords=led+matrix&amp;qid=1625464711&amp;sr=8-13">64x32 led matricies</a></li>
+<li>Power Supply for matricies <a href="https://www.amazon.com/Aclorol-100V-240V-Switching-Converter-5-5x2-1mm/dp/B07CMM2BBR/ref=pd_bxgy_img_2/146-1323726-0501719?pd_rd_w=CMHid&amp;pf_rd_p=fd3ebcd0-c1a2-44cf-aba2-bbf4810b3732&amp;pf_rd_r=4AF6VZJKNY9ENC44MC3R&amp;pd_rd_r=cec9a088-9c56-480d-889b-4cc5a54b2047&amp;pd_rd_wg=YNy14&amp;pd_rd_i=B07CMM2BBR&amp;psc=1">Power Supply</a></li>
+<li>One RaspberryPi( I use the RPi 3 mostly because I have a few lying around but it&rsquo;s also nice not to have to run ethernet to it as well)</li>
+<li>jumper wires for RPI GPIO header pins to the IN pins on the matricies</li>
+<li>I would also reccomend a ribbon cable for connected the two matricies otherwise you can daisy chain some jumper wires</li>
+</ol>
+<h1 id="getting-setup">Getting Setup</h1>
+<ol>
+<li>Refer to this link for setting up your wiring <a href="%22https://github.com/hzeller/rpi-rgb-led-matrix%22">hzeller&rsquo;s RPI GPIO LED controller</a></li>
+<li>Setup A SpotifyAPI app on Spotify&rsquo;s Developer Dashboard <a href="https://developer.spotify.com/dashboard/login">link</a> Make sure to setup a redirect uri this will be http://(your raspberry pi&rsquo;s ip):5000/spotify/callback</li>
+<li>Setup a Gmail Account for sending the SMS links for spotify verification, make sure to allow less secure apps on your account <a href="https://myaccount.google.com/lesssecureapps?pli=1&amp;rapt=AEjHL4NeLEa87kn7oADg8QKET5wKChEr3COo0nkk89SwN6HHzVgdOwI03N70kAUsXH7wKLbJU3xXEblU4fGfSEv59A_ozLKakQ">link to allow less secure apps on account</a></li>
+<li>Set enviornment variables for
+<ul>
+<li>CLIENTID</li>
+<li>CLIENTSECRET</li>
+<li>SMTP_EMAIL</li>
+<li>SMTP_EMAIL_PASS</li>
+<li>REDIRECT URI (set in step two)</li>
+</ul>
+</li>
+<li>set your sms_email in server.py line 98 simply put your number followed by the specified gateway address <a href="https://kb.sandisk.com/app/answers/detail/a_id/17056/~/list-of-mobile-carrier-gateway-addresses">link to all gateway addresses</a></li>
+<li>install requirements by running <code>pip3 install -r requirements.txt</code> in the projcects root</li>
+<li>Finally run <code>python3 server.py</code> in the project&rsquo;s root</li>
+</ol>
+<p>You should recieve a text to your cellphone for the OAuth, which will then, if verified, start requesting your currently playing track&rsquo;s info and start displaying on the Matrix</p>
+<p>See repo for example images</p>
 
         
 
@@ -287,12 +313,12 @@
         <ul class="pager blog-pager">
           
             <li class="previous">
-              <a href="/post/amazon-scraper/" data-toggle="tooltip" data-placement="top" title="Amazon Web Scraper">&larr; Previous Post</a>
+              <a href="/post/php-blog/" data-toggle="tooltip" data-placement="top" title="Simple PHP Blog with login">&larr; Previous Post</a>
             </li>
           
           
             <li class="next">
-              <a href="/post/murphys-mow-snow/" data-toggle="tooltip" data-placement="top" title="Murphy&#39;s Mow &amp; Snow Website">Next Post &rarr;</a>
+              <a href="/post/beaut/" data-toggle="tooltip" data-placement="top" title="Beaut">Next Post &rarr;</a>
             </li>
           
         </ul>
