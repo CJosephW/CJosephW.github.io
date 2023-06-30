@@ -105,8 +105,8 @@ This is still very much a work in progress, current works in progress are refres
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/page/about/</guid>
-      <description>Hi, my name is Cameron Wise. Here are some of my interests and hobbies:
- Software Development Web Design Data Analysis Snowboarding Bass Guitar Pixel Art  my history I&amp;rsquo;ve been programming since the age of thirteen. Since then I have taken several AP programming classes and have participated in the Jackson Area Career Center&amp;rsquo;s CIT: Programming. This class gave me the work experience and time to explore different avenues such as Web Development, Software Development, and Data Analysis.</description>
+      <description>Hi, my name is Cameron Wise. Here are some of my areas of experience:
+ NodeJS ReactJS/ReactNative PostgreSQL Python JavaScript/TypeScript CI/CD with BitBucket Pipelines AWS Services(EC2, ECS, ALB, Lambda, RDS, Fargate) Docker  my history I&amp;rsquo;ve been programming since the age of thirteen. Since then I have taken several AP programming classes and have participated in the Jackson Area Career Center&amp;rsquo;s CIT: Programming. This class gave me the work experience and time to explore different avenues such as Web Development, Software Development, and Data Analysis.</description>
     </item>
     
     <item>
@@ -115,7 +115,7 @@ This is still very much a work in progress, current works in progress are refres
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>wisecameron1@gmail.com (Cameron Wise)</author>
       <guid>/page/contact/</guid>
-      <description>Phone: (517) 748-6160
+      <description>Phone: (616) 583-6460
 Email: wisecameron1@gmail.com
 LinkedIn: Cameron Wise</description>
     </item>
